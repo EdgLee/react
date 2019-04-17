@@ -27,7 +27,7 @@ Greeting.propTypes = {
 };
 ```
 
-`PropTypes` 包含一整套验证器，可用于确保你接收的数据是有效的。在这个示例中，我们使用了 `PropTypes.string`。当你给属性传递了无效值时，JavsScript 控制台将会打印警告。出于性能原因，`propTypes` 只在开发模式下进行检查。
+`PropTypes` 包含一整套验证器，可用于确保你接收的数据是有效的。在这个示例中，我们使用了 `PropTypes.string`。当你给属性传递了无效值时，JavaScript 控制台将会打印警告。出于性能原因，`propTypes` 只在开发模式下进行检查。
 
 ### PropTypes
 
